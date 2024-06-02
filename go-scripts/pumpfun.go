@@ -1,8 +1,8 @@
 package token
 
 import (
-	"PumpBot/global"
-	"PumpBot/utils"
+	"github.com/lnmpkvemail/pumpfunsniper/go-scripts/global"
+	"github.com/lnmpkvemail/pumpfunsniper/go-scripts/utils"
 
 	"bytes"
 	"context"
