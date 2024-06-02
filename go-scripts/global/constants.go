@@ -3,7 +3,7 @@ package global
 // Contains constants variables that set the project's status.
 
 import (
-	atomic_ "PumpBot/utils/atomic"
+	atomic_ "github.com/lnmpkvemail/pumpfunsniper/go-scripts/utils/atomic"
 	"fmt"
 	"math/big"
 	"math/rand"
